@@ -1,0 +1,336 @@
+{
+  "practice": [
+    {
+      "trial_id": "1",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incompetent",
+      "trial_display_center": "luigi.png",
+      "trial_display_right": "Mostly Competent",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "2",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incompetent",
+      "trial_display_center": "Mickey.png",
+      "trial_display_right": "Mostly Competent",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "3",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incompetent",
+      "trial_display_center": "Bugs.png",
+      "trial_display_right": "Mostly Competent",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "4",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incompetent",
+      "trial_display_center": "Wall-e.png",
+      "trial_display_right": "Mostly Competent",
+      "trial_display_bottom": "START"
+    }
+  ],
+  "stimulus0": [
+    {
+      "trial_id": "5",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incompetent",
+      "trial_display_center": "Lisa.png",
+      "trial_display_right": "Mostly Competent",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "6",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incompetent",
+      "trial_display_center": "C3P-0.png",
+      "trial_display_right": "Mostly Competent",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "7",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incompetent",
+      "trial_display_center": "Sandy.png",
+      "trial_display_right": "Mostly Competent",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "8",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incompetent",
+      "trial_display_center": "R2D2.png",
+      "trial_display_right": "Mostly Competent",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "9",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incompetent",
+      "trial_display_center": "Spongebob.png",
+      "trial_display_right": "Mostly Competent",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "10",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incompetent",
+      "trial_display_center": "Bart.png",
+      "trial_display_right": "Mostly Competent",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "11",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incompetent",
+      "trial_display_center": "Baxter_nf.png",
+      "trial_display_right": "Mostly Competent",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "12",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incompetent",
+      "trial_display_center": "Taylor.PNG",
+      "trial_display_right": "Mostly Competent",
+      "trial_display_bottom": "START"
+    }
+  ],
+  "stimulus1": [
+    {
+      "trial_id": "13",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incapable",
+      "trial_display_center": "R2D2.png",
+      "trial_display_right": "Mostly Capable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "14",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incapable",
+      "trial_display_center": "Baxter_nf.png",
+      "trial_display_right": "Mostly Capable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "15",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incapable",
+      "trial_display_center": "Taylor.PNG",
+      "trial_display_right": "Mostly Capable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "16",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incapable",
+      "trial_display_center": "Lisa.png",
+      "trial_display_right": "Mostly Capable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "17",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incapable",
+      "trial_display_center": "C3P-0.png",
+      "trial_display_right": "Mostly Capable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "18",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incapable",
+      "trial_display_center": "Bart.png",
+      "trial_display_right": "Mostly Capable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "19",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incapable",
+      "trial_display_center": "Spongebob.png",
+      "trial_display_right": "Mostly Capable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "20",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Incapable",
+      "trial_display_center": "Sandy.png",
+      "trial_display_right": "Mostly Capable",
+      "trial_display_bottom": "START"
+    }
+  ],
+  "stimulus2": [
+    {
+      "trial_id": "21",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Unreliable",
+      "trial_display_center": "Sandy.png",
+      "trial_display_right": "Mostly Reliable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "22",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Unreliable",
+      "trial_display_center": "Taylor.PNG",
+      "trial_display_right": "Mostly Reliable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "23",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Unreliable",
+      "trial_display_center": "Spongebob.png",
+      "trial_display_right": "Mostly Reliable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "24",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Unreliable",
+      "trial_display_center": "R2D2.png",
+      "trial_display_right": "Mostly Reliable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "25",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Unreliable",
+      "trial_display_center": "Lisa.png",
+      "trial_display_right": "Mostly Reliable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "26",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Unreliable",
+      "trial_display_center": "Bart.png",
+      "trial_display_right": "Mostly Reliable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "27",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Unreliable",
+      "trial_display_center": "Baxter_nf.png",
+      "trial_display_right": "Mostly Reliable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "28",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Unreliable",
+      "trial_display_center": "C3P-0.png",
+      "trial_display_right": "Mostly Reliable",
+      "trial_display_bottom": "START"
+    }
+  ],
+  "stimulus3": [
+    {
+      "trial_id": "29",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Unknowledgeable",
+      "trial_display_center": "Sandy.png",
+      "trial_display_right": "Mostly Knowledgeable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "30",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Unknowledgeable",
+      "trial_display_center": "Lisa.png",
+      "trial_display_right": "Mostly Knowledgeable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "31",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Unknowledgeable",
+      "trial_display_center": "Taylor.PNG",
+      "trial_display_right": "Mostly Knowledgeable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "32",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Unknowledgeable",
+      "trial_display_center": "Baxter_nf.png",
+      "trial_display_right": "Mostly Knowledgeable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "33",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Unknowledgeable",
+      "trial_display_center": "Bart.png",
+      "trial_display_right": "Mostly Knowledgeable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "34",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Unknowledgeable",
+      "trial_display_center": "R2D2.png",
+      "trial_display_right": "Mostly Knowledgeable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "35",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Unknowledgeable",
+      "trial_display_center": "C3P-0.png",
+      "trial_display_right": "Mostly Knowledgeable",
+      "trial_display_bottom": "START"
+    },
+    {
+      "trial_id": "36",
+      "trial_type": "text_image_text_text",
+      "counterbalance": "1",
+      "trial_display_left": "Mostly Unknowledgeable",
+      "trial_display_center": "Spongebob.png",
+      "trial_display_right": "Mostly Knowledgeable",
+      "trial_display_bottom": "START"
+    }
+  ]
+}

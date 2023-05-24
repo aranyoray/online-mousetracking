@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+		<link rel="stylesheet" href="../static/css/bootstrap.min.css" type="text/css" />
+        <link rel="stylesheet" href="../static/css/style.css">
+        <link rel="stylesheet" href="../static/css/slider.css">
+        <title></title>
+    </head>
+
+    <body style="overflow:hidden; margin:25px;">
+        <div id="full_screen_element">
+
+            <div id="generic_section" style="margin: 30px; display: none;">
+                <div class="login-form">
+
+                    <div class="row_blank"></div>
+
+                    <div class="header" style="text-align: center">
+                        <h1 id="generic_page_title" style="color: darkred">ERROR: Sorry!</h1>
+                    </div>
+
+                    <div class="content" style="text-align: center">
+                        <h3 id="generic_page_message">
+                            You did not answer all comprehension questions correctly.<br>
+                            Press <b>continue</b> to review the instructions again.
+                        </h3>
+                    </div>
+
+                    <div class="row_blank"></div>
+
+                    <div class="footer" style="text-align: center">
+                        <button type="button"
+                                class="btn btn-danger btn-lg continue"
+                                id="generic_page_button"
+                                value="Continue">CONTINUE</button>
+                    </div>
+                </div>
+            </div>
+
+            <div id="instructions_section" style="display: none;">
+                <div class="row_blank"></div>
+
+                <div class="row" style="text-align: center">
+                    <h1>Instructions:</h1>
+                </div>
+
+                <div class="row_blank_25"></div>
+
+                <div id="instructions" class="row constrained_text_view unselectable" style="text-align: start">
+                    <h2>Thank you so much for participating in this study and helping us with our research.</h2>
+                </div>
+
+                <div class="row_blank_25"></div>
+
+                <div id="instructions_img_div" class="row" style="text-align: center">
+                    <img id="instructions_img"
+                         class="center_image_container"
+                         src="../static/images/Bart.png"
+                         alt="Instructions Image"
+                         style="width: 650px;">
+                </div>
+
+                <div id="instructions_checkbox_div" class="row" style="text-align: center; vertical-align: middle;" >
+                    <input type="checkbox" name="checkbox" id="checkbox_id" value="value">
+                    <label for="checkbox_id">I have understood the instructions.</label>
+                </div>
+
+                <div class="row_blank_25"></div>
+
+                <div class="row">
+                    <div class="column left" style="width: 46%;"></div>
+                    <div class="column middle center-block unselectable"
+                         style="width: 8%;
+                                -moz-user-select: none;
+                                -webkit-user-select: none;
+                                -ms-user-select:none;
+                                -o-user-select:none;
+                                user-select:none;"
+                         onmousedown="return false;">
+                        <a id="next_instruction" class="button5" style="background-color:#42cc8c;">NEXT</a>
+                    </div>
+                    <div class="column right" style="width: 46%;"></div>
+                </div>
+            </div>
+
+            <div id="trials_section" style="overflow:hidden; margin:25px">
+                <div id="top_row">
+                    <img id="top_left_image"
+                         src="../static/images/Bart.png"
+                         alt="top left image"
+                         style="width: 200px; float: left; display: none;">
+
+                    <div id="top_left_text_div" class="bordered_text_box" style="float: left">
+                        <h2 id="top_left_text"> Left Text </h2>
+                    </div>
+
+                    <img id="top_right_image"
+                         src="../static/images/Bart.png"
+                         alt="top right image"
+                         style="width: 200px; float: right; display: none;">
+
+                    <div id="top_right_text_div" class="bordered_text_box" style="float: right;">
+                        <h2 id="top_right_text"> Right Text </h2>
+                    </div>
+                </div>
+
+                <div id="middle_row">
+                    <img id="center_image"
+                         src="../static/images/Bart.png"
+                         alt="center image"
+                         style="width: 300px; position: absolute;
+                                top: 50%; left: 50%; transform: translate(-50%, -50%); ">
+
+                    <div id="center_text_div" style="text-align: center; position: absolute;
+                                top: 50%; left: 50%; transform: translate(-50%, -50%);">
+                        <h2 id="center_text">Here is the prompt</h2>
+                    </div>
+                </div>
+
+                <div id="bottom_row" class="middle center-block unselectable" style="text-align: center">
+                    <img id="bottom_image"
+                         src="../static/images/Bart.png"
+                         alt="bottom image"
+                         style="width: 200px; position: absolute; bottom: 25px; left:50%; transform:translateX(-50%); ">
+
+                    <div id="bottom_text_div" class="bordered_text_box"
+                         style="position: absolute; bottom: 25px; left:50%; transform:translateX(-50%); background-color:#00356B; width: auto; padding-left: 25px; padding-right: 25px;">
+                        <h2 id="bottom_text" style="color: white;"> Bottom Text </h2>
+                    </div>
+
+                    <div class="row"
+                         style="text-align: center; padding-left: 14px; ">
+                        <h4 id="progress">0 / 0</h4>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

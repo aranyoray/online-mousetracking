@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+		<link rel="stylesheet" href="../static/css/bootstrap.min.css" type="text/css" />
+        <link rel="stylesheet" href="../static/css/style.css">
+        <title></title>
+    </head>
+
+    <body style="overflow:hidden; margin:25px;">
+        <div id="trials_section" style="height:100%; width:100%; overflow:hidden; margin:25px;">
+            <div id="top_row">
+                <img id="top_left_image"
+                     src="../static/images/Bart.png"
+                     alt="top left image"
+                     style="width: 200px; float: left; display: none;">
+
+                <div id="top_left_text_div" class="bordered_text_box"
+                     style="float: left">
+                    <h2 id="top_left_text"> Left Text </h2>
+                </div>
+
+                <img id="top_right_image"
+                     src="../static/images/Bart.png"
+                     alt="top right image"
+                     style="width: 200px; float: right">
+
+                <div id="top_right_text_div" class="bordered_text_box"
+                     style="float: right;">
+                    <h2 id="top_right_text"> Right Text </h2>
+                </div>
+            </div>
+
+            <div id="middle_row">
+                <img id="center_image"
+                     src="../static/images/Bart.png"
+                     alt="center image"
+                     style="width: 200px; position: absolute;
+                            top: 50%; left: 50%; transform: translate(-50%, -50%); ">
+
+                <div id="center_text_div" style="text-align: center; position: absolute;
+                            top: 50%; left: 50%; transform: translate(-50%, -50%);">
+                    <h2 id="center_text">Here is the prompt</h2>
+                </div>
+            </div>
+
+            <div id="bottom_row" class="middle center-block unselectable" style="text-align: center">
+                <img id="bottom_image"
+                     src="../static/images/Bart.png"
+                     alt="bottom image"
+                     style="width: 200px; position: absolute; bottom: 25px; left:50%; transform:translateX(-50%); ">
+
+                <div id="bottom_text_div" class="bordered_text_box"
+                     style="position: absolute; bottom: 25px; left:50%; transform:translateX(-50%);">
+                    <h2 id="bottom_text"> Bottom Text </h2>
+                </div>
+
+                <div class="row"
+                     style="text-align: center; padding-left: 14px; ">
+                    <h4 id="progress">11 / 17</h4>
+                </div>
+
+            </div>
+        </div>
+    </body>
+</html>
